@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/loginform-using-reatc-accio/static/css/main.e539d774.css",
+    "main.js": "/loginform-using-reatc-accio/static/js/main.c9c94ece.js",
+    "static/js/453.51275951.chunk.js": "/loginform-using-reatc-accio/static/js/453.51275951.chunk.js",
+    "index.html": "/loginform-using-reatc-accio/index.html",
+    "main.e539d774.css.map": "/loginform-using-reatc-accio/static/css/main.e539d774.css.map",
+    "main.c9c94ece.js.map": "/loginform-using-reatc-accio/static/js/main.c9c94ece.js.map",
+    "453.51275951.chunk.js.map": "/loginform-using-reatc-accio/static/js/453.51275951.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e539d774.css",
+    "static/js/main.c9c94ece.js"
+  ]
+}
